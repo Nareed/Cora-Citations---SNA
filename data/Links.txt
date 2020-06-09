@@ -1,0 +1,11 @@
+dataset from KONECT
+http://konect.uni-koblenz.de/networks/subelj_cora
+
+MORE LINKS 
+http://wwwlovre.appspot.com/publications.jsp?show=cpm#cpm
+
+http://wwwlovre.appspot.com/resources/research/slides/cpm.pdf
+
+http://wwwlovre.appspot.com/support.jsp
+
+http://lovro.lpt.fri.uni-lj.si/
