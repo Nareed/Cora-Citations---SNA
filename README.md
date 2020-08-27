@@ -101,3 +101,17 @@ Calculate the in degree for each node (sub-category) which is the sum of all wei
 ![mostcentral](img/mostcent.jpg)
 
 __Most Central Sub-Category - Distributed from Operating Systems__
+
+## 5. Additional Analysis
+### 5.1. Again, Central Sub-Category 
+We've calculated the central sub-category in the whole world (all 62 sub-categories), now we want to check if that sub-category is also the most central sub-category in it's category. Meaning if we run the same analysis we did before but this time only on the sub-categories from Operating Systems will we get the same answer?
+
+__Conclutions__
+As we expected, the most central sub-category between the Operating Systems sub-categories is the same sub-category that is most central is the whole network which is Distributed
+
+
+### 5.2. Strongest Edge
+Check which sub-category relies most on another sub-category, meaning it has the highest weight on the edge.
+
+__Conclutions__
+The edge with highest weight is Filtering IR to Retrieval IR, which means the first one relies on the second the most related to all other edges.
